@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Joseph Blomstedt Has Joined The Basho Team",
+  "link": "http://blog.basho.com/2011/06/10/Joseph-Blomstedt-has-joined-the-Basho-team",
+  "guid": "http://blog.basho.com/2011/06/10/Joseph-Blomstedt-has-joined-the-Basho-team",
+  "updated": "2011-06-10T00:00:00+00:00",
+  "pubdate": "2011-06-10T07:00:00.000Z",
+  "rfc822": "Fri, 10 Jun 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/06/10/Joseph-Blomstedt-has-joined-the-Basho-team",
+  "description": "<p><strong>June 10, 2011</strong></p>\n<p>More awesome news coming out of BashoHQ: Joseph Blomstedt has joined the Basho Team! (Well, to be clear, he&#8217;s been working on Riak full-time for about three weeks now; this blog post is a bit overdue.)</p>\n<p>Joe initially caught our eye after releasing <a href=\"https://github.com/jtuple/riak_zab\">riak_zab</a>, an Erlang port of the Zookeeper atomic broadcast protocol that was designed to integrate with <a href=\"\">riak_core</a>. Joe built riak_zab in order to support a strong consistency layer on top of Riak, allowing a single Riak cluster to be used both for eventually consistent and strongly consistent operations. We got in touch with him soon after this was released, and the rest is history.</p>\n<p>Joe is currently finishing up a PhD at the University of Colorado with a focus on compilers, parallel code scheduling, and heterogeneous <span class=\"caps\">CPU</span>/<span class=\"caps\">GPU</span> systems. During his time in graduate school, he has also been a frequent intern at Intel &#8212; twice in the research division, and twice on product teams.</p>\n<img src=\"/images/joe2.jpg\">\n<p>Outside of making Riak better by day, Joe also has a strong interest in expanding riak_core both in capability and popularity.  In particular, he intends to work towards increasing the visibility of riak_core/Erlang in the academic community, where most distributed systems research builds on Hadoop/Java. He is also of the belief that there is considerable research still to be done in the area of eventually consistent distributed systems, and that Basho has a role to play in producing novel research.</p>\n<p>Joe currently resides in Boulder while he finishes up his PhD, and takes turns working from home and the university campus. This fall he plans to move back to Seattle, where he previously lived during his undergraduate years (UW <span class=\"caps\">CSE</span>, 2005). In the meantime, Joe is enjoying his remaining months with Boulder&#8217;s great food, beer, and open spaces. If you&#8217;re in the area, feel free to contact Joe if you want to talk Riak over lunch or beers.</p>\n<p>You can follow Joe on Twitter as <a href=\"https://twitter.com/#!/jtuple\">@jtuple</a> and keep an eye on all his commits on GitHub where <a href=\"https://github.com/jtuple\">he also goes by jtuple</a>.</p>\n<p>Welcome, Joe!</p>\n<p><a href=\"https://twitter.com/#!/basho/team\">The Basho Team</a></p>",
+  "isoTimestamp": "2011-06-10T07:00:00.000Z",
+  "_id": "2011-06-10T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jun 10 2011"
+}

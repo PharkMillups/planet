@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 3 - 6",
+  "link": "http://recap.basho.com/2011/09/07/Riak-Recap-for-September-3-6",
+  "guid": "http://recap.basho.com/2011/09/07/Riak-Recap-for-September-3-6",
+  "updated": "2011-09-07T00:00:00+00:00",
+  "pubdate": "2011-09-07T07:00:00.000Z",
+  "rfc822": "Wed, 07 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/07/Riak-Recap-for-September-3-6",
+  "description": "<p>Evening, Afternoon, Morning To All -</p>\n<p>For today&#8217;s Recap: meetups, new code, new production users, blog posts, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 3 &#8211; 6</strong></p>\n<ol>\n\t<li><a href=\"http://twitter.com/ncb000gt\">Nick Campbell</a> built an app using Riak and Luwak for Node Knockout.<br />\n&#8594; <a href=\"http://bearshark.nko2.nodeknockout.com/\">Go see if you can break it here</a> <br />\n&#8594; <a href=\"http://twitter.com/#!/ncb000gt/statuses/110764370715344896\">A few details on the app here</a><br />\n<em>Anyone else use Riak for a Node Knockout app?</em></li>\n\t<li>Juliano Martinez let it leak that he added support for Riak to the S3 Clone he is working on.<br />\n&#8594; <a href=\"https://github.com/ncode/otto\">Code here on GitHub</a></li>\n\t<li>Chad DePue (@chaddepue) wrote a great blog post about his experience using and working with Riak over the past year.<br />\n&#8594; <a href=\"http://inakanetworks.com/blog/2011/08/25/when-to-use-riak/\">Read here</a><br />\n&#8594; <a href=\"http://news.ycombinator.com/item?id=2969865\">There was also a lively discussion about the post on Hacker News</a></li>\n\t<li>Jon Brisbin&#8217;s talk from Erlang Factory about Riak and RabbitMQ is online (<span class=\"caps\">PDF</span> and video).<br />\n&#8594; <a href=\"http://www.erlang-factory.com/conference/London2011/speakers/JonBrisbin\">Watch here</a></li>\n\t<li>I wrote up a blog post detailing all the Riak-related events in September.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/09/07/Riak-is-Going-To-Have-a-Huge-September/\">Read here</a></li>\n\t<li>Two Common Lisp Libraries for Riak appeared today (obviously both are still quite nascent but definitely worth keeping an eye on).<br />\n&#8594; <a href=\"https://github.com/eriknomitch/cl-riak\">https://github.com/eriknomitch/cl-riak</a><br />\n&#8594; <a href=\"https://github.com/whee/cl-riak\">https://github.com/whee/cl-riak</a></li>\n\t<li>Two great jobs to pass along:<br />\n&#8594; HP Cloud Services in Seattle is hiring developers with Riak skills. <a href=\"http://www.linkedin.com/groups/HP-Cloud-Services-Looking-Riak-2913983.S.68805320\">Details here</a>.<br />\n&#8594; Thoughtleadr in San Francisco is hiring a Linux Admin with Riak with<br />\nexperience. <a href=\"http://www.startuply.com/Jobs/Linux_Administrator_5134_1.aspx\">Details here</a>.</li>\n</ol>",
+  "isoTimestamp": "2011-09-07T07:00:00.000Z",
+  "_id": "2011-09-07T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 7 2011"
+}

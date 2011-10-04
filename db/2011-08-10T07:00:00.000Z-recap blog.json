@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 8 - 9",
+  "link": "http://recap.basho.com/2011/08/10/Riak-Recap-for-August-8-9",
+  "guid": "http://recap.basho.com/2011/08/10/Riak-Recap-for-August-8-9",
+  "updated": "2011-08-10T00:00:00+00:00",
+  "pubdate": "2011-08-10T07:00:00.000Z",
+  "rfc822": "Wed, 10 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/10/Riak-Recap-for-August-8-9",
+  "description": "<p><em>Posted on August 10, 2011</em></p>\n<p>Morning, Evening, Afternoon to All -</p>\n<p>For today&#8217;s Recap: a video, new code, a blog post, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 8 &#8211; 9</strong></p>\n<ol>\n\t<li>A video of Justin Sheehy&#8217;s &#8220;Thing Break, Riak Bends&#8221; presentation from QCon London is online. It runs just under an hour with questions, but it&#8217;s well worth it.<br />\n&#8594; <a href=\"http://www.infoq.com/presentations/Things-Break-Riak-Bends\">Grab a beverage and watch here</a></li>\n\t<li>Brian Rowe wrote a short post about changing Erlang&#8217;s default logging behavior that might be of interest to some of you.<br />\n&#8594; <a href=\"http://cartesianfaith.wordpress.com/2011/08/09/changing-default-log-behavior-in-erlang/\">Read here</a></li>\n\t<li>I stumbled onto a new repo from Dan Dean (@dandean) yesterday called &#8220;Tubbs.&#8221; This looks to be a general <span class=\"caps\">ORM</span> for working with data with support for Riak.<br />\n&#8594; <a href=\"https://github.com/dandean/tubbs\">Code here</a></li>\n\t<li>I wrote a blog post about the Ripple Hackathon that happened at BashoWest in July.<br />\n&#8594; <a href=\"http://www.themarkphillips.com/2011/08/09/A-Cost-Benefit-Analysis-of-the-Ruby-Hackathon.html\">Read here</a></li>\n\t<li>One job to pass along today:<br />\n&#8594; <a href=\"http://bit.ly/pgkUlc\">Fabergent is looking for a Sr. Lead Software Engineer with Riak Experience</a>.</li>\n</ol>",
+  "isoTimestamp": "2011-08-10T07:00:00.000Z",
+  "_id": "2011-08-10T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 10 2011"
+}

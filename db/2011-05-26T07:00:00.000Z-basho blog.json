@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Eric Moritz Added As A Community Wiki Committer",
+  "link": "http://blog.basho.com/2011/05/26/Eric-Moritz-is-Now-A-Wiki-Committer",
+  "guid": "http://blog.basho.com/2011/05/26/Eric-Moritz-is-Now-A-Wiki-Committer",
+  "updated": "2011-05-26T00:00:00+00:00",
+  "pubdate": "2011-05-26T07:00:00.000Z",
+  "rfc822": "Thu, 26 May 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/05/26/Eric-Moritz-is-Now-A-Wiki-Committer",
+  "description": "<p><strong>May 26, 2011</strong></p>\n<p>I&#8217;m thrilled to announced that we&#8217;ve just added <a href=\"http://twitter.com/#!/ericmoritz\">Eric Moritz</a> as a committer to the Riak Wiki. (For anyone who wants more details on what a &#8220;Wiki Committer&#8221; is, <a href=\"http://wiki.basho.com/Contributing-to-the-Riak-Wiki.html\">read up on it here</a>.)</p>\n<img src=\"/images/eric-moritz.jpg\">\t\n<p>Eric has been active in the Riak community for some time now, and, in addition to the numerous patches and bug fixes he has contributed to the <a href=\"https://github.com/basho/riak-python-client\">Riak Python client</a>, he&#8217;s also gone out of his way to help educate new and existing users about all things Riak on the <a href=\"http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com\">Mailing List</a> and in #riak on Freenode.</p>\n<p>Make sure to keep an eye on the <a href=\"https://github.com/basho/riak_wiki\">Riak Wiki Repo</a> for his commits.</p>\n<p>Welcome, Eric!</p>\n<p><a href=\"https:/twitter.com/pharkmillups\">Mark</a></p>",
+  "isoTimestamp": "2011-05-26T07:00:00.000Z",
+  "_id": "2011-05-26T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "May 26 2011"
+}

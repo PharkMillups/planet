@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for July 29 - 31",
+  "link": "http://recap.basho.com/2011/08/01/Riak-Recap-for-July-29-31",
+  "guid": "http://recap.basho.com/2011/08/01/Riak-Recap-for-July-29-31",
+  "updated": "2011-08-01T00:00:00+00:00",
+  "pubdate": "2011-08-01T07:00:00.000Z",
+  "rfc822": "Mon, 01 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/01/Riak-Recap-for-July-29-31",
+  "description": "<p><em>Posted on August 01, 2011</em></p>\n<p>Evening, Morning, Afternoon To All -</p>\n<p>For today&#8217;s Recap: Slides, new code, Office Hours at Basho West, jobs, and more.</p>\n<p>Enjoy, and thanks for being a part of Riak.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for July 29 &#8211; 31</strong></p>\n<ol>\n\t<li>Jeff Kirkell posted the slides he used for the &#8220;Breaking Riak&#8221; workshop he delivered last week at <span class=\"caps\">OSCON</span>. Thanks, Jeff!<br />\n&#8594; <a href=\"http://www.slideshare.net/Jkirkell/breaking-a-riak-cluster\">Check them out here</a></li>\n\t<li>Francisco Treacy spun up a new repo on GitHub called &#8220;Connect-Riak,&#8221; a Riak Session Store for Connect backed by riak-js. Thanks, Francisco!<br />\n&#8594; <a href=\"http://twitter.com/#!/riakjs/status/97675036491657217\">Details and code here</a></li>\n\t<li>Brian Rowe fixed a small typo on the MapReduce page on the wiki. (No contribution is too small.) Thanks, Brian!<br />\n&#8594; <a href=\"https://github.com/basho/riak_wiki/pull/139\">Pull request here</a></li>\n\t<li>We put some office hours on the calendar at BashoWest. These will be happening on Wednesday in San Francisco. Hope to see some of you there.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/08/01/Riak-Office-Hours-Happening-Wednesday-August-3/\">Details on the Basho Blog here</a></li>\n\t<li>A few very cool jobs to pass along (courtesy of a recent Hacker News poll). H/T to Jared Morrow for bringing these to my attention.<br />\n&#8594; Adcloud.com in Cologne, Germany is hiring developers with Node.js and Riak experience. <a href=\"http://news.ycombinator.com/item?id=2831764\">Read more here</a>.<br />\n&#8594;  Pixfizz in Barcelona is looking for Riak, Node.js, and Rails hackers. <a href=\"http://news.ycombinator.com/item?id=2831957\">Some details here</a>.<br />\n<em>(Also, if anyone from Adcloud or Pixfizz is reading this, mark@basho.com would love to hear more about how you&#8217;re using Riak.)</em></li>\n</ol>",
+  "isoTimestamp": "2011-08-01T07:00:00.000Z",
+  "_id": "2011-08-01T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 1 2011"
+}

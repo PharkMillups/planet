@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Office Hours Happening Today at 2PM Pacific at BashoWest",
+  "link": "http://blog.basho.com/2011/07/13/Riak-Office-Hours-Happening-Today-At-Basho-West",
+  "guid": "http://blog.basho.com/2011/07/13/Riak-Office-Hours-Happening-Today-At-Basho-West",
+  "updated": "2011-07-13T00:00:00+00:00",
+  "pubdate": "2011-07-13T07:00:00.000Z",
+  "rfc822": "Wed, 13 Jul 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/07/13/Riak-Office-Hours-Happening-Today-At-Basho-West",
+  "description": "<p><strong>July 13, 2011</strong></p>\n<p>Office Hours are happening again today at BashoWest. The planned time is from 2-5 Pacific, and if you&#8217;re in San Francisco and like talking about technology, there&#8217;s no excuse for you not to be here.</p>\n<p>Today&#8217;s Office Hours are extra special: the majority of the <a href=\"https://github.com/seancribbs/ripple\">Ripple</a> Committer Team is in the office for the <a href=\"http://blog.basho.com/2011/07/07/Ripple-Hackathon-Happening-Next-Week-at-Basho-West/\">Hackathon</a> and will be on hand to help answer any and all queries you might have. (It&#8217;s also worth noting that we have three shiny whiteboards to abuse, a new stock of RedBull, and <a href=\"http://twitpic.com/5mno23\">a fresh shipment of Riak of swag</a>&#8230;)</p>\n<p>Official details are as follows:</p>\n<ul>\n\t<li><strong>When</strong>: Today, 2PM Pacific until about 5</li>\n\t<li><strong>Where</strong>: BashoWest &#8211; 929 Market St., Suite 500, San Francisco</li>\n\t<li><strong>How</strong>: Find &#8220;Basho&#8221; on the front door buzzer.</li>\n\t<li><strong>Who Should Come</strong>: Anyone with questions/comments/concerns about Riak, Erlang, open source software, community building, or databases.</li>\n</ul>\n<p>Hope to see you this afternoon. Shoot an email to <strong>mark@basho.com</strong> or <a href=\"https://twitter.com/pharkmillups\">find me on twitter</a> if you have any questions.</p>\n<p>Mark</p>",
+  "isoTimestamp": "2011-07-13T07:00:00.000Z",
+  "_id": "2011-07-13T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jul 13 2011"
+}

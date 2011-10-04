@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 16 - 18",
+  "link": "http://recap.basho.com/2011/09/19/Riak-Recap-for-September-16-18",
+  "guid": "http://recap.basho.com/2011/09/19/Riak-Recap-for-September-16-18",
+  "updated": "2011-09-19T00:00:00+00:00",
+  "pubdate": "2011-09-19T07:00:00.000Z",
+  "rfc822": "Mon, 19 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/19/Riak-Recap-for-September-16-18",
+  "description": "<p><em>Posted on September 19, 2011</em></p>\n<p>Afternoon, Evening, Morning To All -</p>\n<p>Today&#8217;s Recap comes to you live from Strange Loop where Susan Potter is currently <a href=\"twitter.com/pharkmillups\">delivering an awesome talk on riak_core</a>.</p>\n<p>For today: Blog posts, code, slides, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 16 &#8211; 18</strong></p>\n<ol>\n\t<li>Joseph Lambert wrote a great blog post about why and how he and the team at the NetCircle are using Riak. Thanks, Joseph!<br />\n&#8594; <a href=\"http://www.thenetcircle.com/2011/09/19/using-riak-at-the-netcircle\">Read here</a></li>\n\t<li>Alexander Sicular contributed a small patch to riak-js.<br />\n&#8594; <a href=\"https://github.com/frank06/riak-js/pull/88\">Pull request here</a></li>\n\t<li>David Koblas contributed a small fix to the Python Client.<br />\n&#8594; <a href=\"https://github.com/basho/riak-python-client/pull/68\">Pull request here</a></li>\n\t<li>Bryan Fink wrote a great blog post about MapReduce and Riak Pipe in 1.0.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/09/19/Riak-Pipe-The-New-Map-Reduce-Power/\">Read here</a></li>\n\t<li>Sean Cribbs published the code and slides from his Strange Loop talk he delivered this morning called &#8220;Wrap Your <span class=\"caps\">SQL</span> Head Around Riak MapReduce.&#8221;<br />\n&#8594; <a href=\"http://strangeloop-riak-mapred.heroku.com/\">Slide deck here</a><br />\n&#8594; <a href=\"https://github.com/seancribbs/strangeloop-riak-mapred\">Code on GitHub</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-19T07:00:00.000Z",
+  "_id": "2011-09-19T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 19 2011"
+}

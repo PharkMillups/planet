@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "BashoWest is All New...And We Have Desks For You",
+  "link": "http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you",
+  "guid": "http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you",
+  "updated": "2011-06-07T00:00:00+00:00",
+  "pubdate": "2011-06-07T07:00:00.000Z",
+  "rfc822": "Tue, 07 Jun 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you",
+  "description": "<p><strong>June 07, 2011</strong></p>\n<p>We are approaching our one year anniversary of having an official presence in the Bay Area, and we just upped our stake in a big way: we have a new office! Since shipping a few members of our crew out West to embrace the data gold rush back in July of last year, we&#8217;ve been hacking and hustlin&#8217; from a space in the Regus Building at 795 Folsom here in San Fransisco. As of today, that changes, and the Bay Area team is now calling 929 Market St. home.</p>\n<p>Here&#8217;s where we are on the map (precisely):</p>\n<img src=\"/images/newoffice-with-basho.png\">\n<p>More importantly, here&#8217;s what the interior of the office looks like (complete with a few of our team members hard at work changing the face of distributed computing):</p>\n<img src=\"/images/interior.jpg\">\n<h2>We Have Desks For You</h2>\n<p>The first thing you&#8217;ll probably notice is the amount of open desks. This is by design. The space is, arguably, too big for our current Bay Area team, but we see this as an opportunity. We fully intend to open our doors to local and visiting developers who many need a desk for an hour/day/week/month and who may or may not be sympathetic to the Riak and Basho cause. So&#8230;</p>\n<ul>\n\t<li>If you are visiting or are local to the Bay Area and need a desk for a day, send an email to <strong>mark@basho.com</strong> or <a href=\"http://twitter.com/#!/pharkmillups\">find me on Twitter</a> and we&#8217;ll see if we can accommodate you;</li>\n\t<li>If you happen to be part of a small Bay Area startup <em>that&#8217;s building an application on Riak</em> and you need a desk or two for a period of time, we want to talk to you. Once again, send an email to <strong>mark@basho.com</strong> if this interests you;</li>\n\t<li>We are hiring <a href=\"http://jobs.github.com/positions/4ff16efc-8c80-11e0-9d4e-7ebd55a85777\">Developer Advocates</a> and would love to have you come join us (though working out of BashoWest is <strong>not</strong> a requirement for this position);</li>\n</ul>\n<p>In addition to this, we are going to get things like Meetups and Riak Office Hours rolling in a few weeks, so keep an eye out for these and other events.</p>\n<p>As usual, thanks for running <a href=\"http://wiki.basho.com\">Riak</a> and for using/contributing to <a href=\"https://github.com/basho\">all of Basho&#8217;s Open Source Software</a>.</p>\n<p><a href=\"http://twitter.com/#!/pharkmillups\">Mark</a><br />\n<em>Community Manager</em></p>",
+  "isoTimestamp": "2011-06-07T07:00:00.000Z",
+  "_id": "2011-06-07T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jun 7 2011"
+}

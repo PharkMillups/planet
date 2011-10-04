@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 5 - 7",
+  "link": "http://recap.basho.com/2011/08/08/Riak-Recap-For-August-5-7",
+  "guid": "http://recap.basho.com/2011/08/08/Riak-Recap-For-August-5-7",
+  "updated": "2011-08-08T00:00:00+00:00",
+  "pubdate": "2011-08-08T07:00:00.000Z",
+  "rfc822": "Mon, 08 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/08/Riak-Recap-For-August-5-7",
+  "description": "<p><em>Posted on August 08, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>Short recap to pass along from the last few days: new code, a video, blog posts, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 5 &#8211; 7</strong></p>\n<ol>\n\t<li>Joe Lambert (@cyborgpirates) wrote a short piece for his blog about using streaming list keys. Thanks, Joe!<br />\n&#8594; <a href=\"http://www.megarockv.com/2011/08/07/riak-erlang-stream_list_keys-example/\">Read here</a></li>\n\t<li>Brett Hoerner has a new project up on GitHub called &#8220;timak,&#8221; a Python library for storing activity streams in Riak. It&#8217;s &#8220;very alpha and rough around the edges&#8221; but you&#8217;re probably going to want to keep an eye on it. Thanks, Brett!<br />\n&#8594; <a href=\"https://github.com/bretthoerner/timak\">Code here</a></li>\n\t<li>We posted the video from the &#8220;Riak at Formspring&#8221; talk that was delivered a few weeks back at the San Francisco Riak Meetup. This one is well worth the 28 minutes.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/08/08/Riak-at-Formspring-Video-from-SF-Riak-Meetup/\">Read and watch here</a></li>\n\t<li>Perhaps a bit off-topic for the Recap but I figured I would pass this along: Basho is hiring a UX Designer.<br />\n&#8594; <a href=\"http://www.basho.com/company_careers.php#designer\">If this is you or someone you know, get in touch with us</a>.</li>\n\t<li>Q &#8211; Are riak keys/buckets case sensitive, or in other words, is<br />\nthe key &#8220;MyKey&#8221; and &#8220;mykey&#8221; the same? (from oal via #riak)\t<br />\n  A &#8211; Yes. They are case-sensitive; just treated as binaries (byte buffers).</li>\n\t<li>One job to pass along:<br />\n&#8594; <a href=\"http://bit.ly/qcbKba\">Comcast is hiring a Sr. Systems Admin with Riak experience</a></li>\n</ol>",
+  "isoTimestamp": "2011-08-08T07:00:00.000Z",
+  "_id": "2011-08-08T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 8 2011"
+}

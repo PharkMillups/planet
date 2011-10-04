@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Office Hours Happening Thursday In New York City",
+  "link": "http://blog.basho.com/2011/08/16/Riak-Office-Hours-Happening-This-Thursday-in-New-York-City",
+  "guid": "http://blog.basho.com/2011/08/16/Riak-Office-Hours-Happening-This-Thursday-in-New-York-City",
+  "updated": "2011-08-16T00:00:00+00:00",
+  "pubdate": "2011-08-16T07:00:00.000Z",
+  "rfc822": "Tue, 16 Aug 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/08/16/Riak-Office-Hours-Happening-This-Thursday-in-New-York-City",
+  "description": "<p><a href=\"http://twitter.com/#!/seancribbs\">Sean Cribbs</a>, Basho Developer Advocate and maintainer of <a href=\"https://github.com/seancribbs/ripple\">Ripple</a>, will be in New York City this Thursday, so we&#8217;re going to hold some Riak Office Hours. Here are the official details:</p>\n<ul>\n\t<li><strong>When</strong>: Thursday, August 18, from 2-5 Eastern</li>\n\t<li><strong>Where</strong>: General Assembly &#8211; 902 Broadway, 4TH Floor, New York, NY 10010</li>\n\t<li><strong>How</strong>: After you sign in at the front desk you&#8217;ll be directed to Seminar Room 2</li>\n\t<li><strong>Who Should Attend</strong>: Anyone who wants to talk Riak, databases, use cases, Erlang, open source, etc.</li>\n</ul>\n<p>A special thanks is owed to <a href=\"http://twitter.com/#!/indexzero\">Charlie Robbins</a>, <a href=\"http://twitter.com/#!/hij1nx\">Paolo Fragomeni</a>, and the rest of the team at <a href=\"http://nodejitsu.com/\">Nodejitsu</a>, and everyone at <a href=\"http://generalassemb.ly\">General Assembly</a> for giving us the space to make this happen.</p>\n<p>Shoot an email to <strong>sean@basho.com</strong> or <a href=\"http://twitter.com/#!/seancribbs\">ping him on Twitter</a> if you have any questions about the event. Other than that, bring your questions, comments, and concerns down to General Assembly this Thursday.</p>\n<p>Also, <a href=\"http://downloads.basho.com/riak/CURRENT/\">go download Riak</a>.</p>\n<p><a href=\"http://twitter.com/#!/basho/team\">The Basho Team</a></p>",
+  "isoTimestamp": "2011-08-16T07:00:00.000Z",
+  "_id": "2011-08-16T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Aug 16 2011"
+}

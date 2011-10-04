@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 1 - 2",
+  "link": "http://recap.basho.com/2011/09/02/Riak-Recap-for-Sept-1-2",
+  "guid": "http://recap.basho.com/2011/09/02/Riak-Recap-for-Sept-1-2",
+  "updated": "2011-09-02T00:00:00+00:00",
+  "pubdate": "2011-09-02T07:00:00.000Z",
+  "rfc822": "Fri, 02 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/02/Riak-Recap-for-Sept-1-2",
+  "description": "<p><em>Posted on September 2, 2011</em></p>\n<p>Afternoon, Evening, Morning, to All -</p>\n<p>For today&#8217;s Recap: Meetups, new code, new production users, slide decks, and more.</p>\n<p>Enjoy, and have a great weekend.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 1 &#8211; 2</strong></p>\n<ol>\n\t<li>Basho Developer Ryan Zezeski is in Baltimore and is looking for other like-minded Baltimoreans for talk Riak with (for meetups. presos, etc.). If this is you, shoot an email to rzezeski@basho.com.<br />\n&#8594; <a href=\"https://twitter.com/#!/rzezeski/status/109123324851929088\">Some details here</a></li>\n\t<li>Mårten Gustafson (@martengustafson) posted a slide deck a few days ago from a recent talk he gave called &#8220;Approaching and evaluating NoSQL.&#8221; Riak gets a non-trivial mention. Thanks, Mårten!<br />\n&#8594; <a href=\"http://marten.gustafson.pp.se/content/presentations#TOC-Approaching-and-evaluating-NoSQL-20\">Check them out here</a></li>\n\t<li>John Newman joined the Basho Team as a Developer Advocate.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/09/02/John-Newman-Has-Joined-The-Basho-Team/\">Details here on the Basho Blog</a></li>\n\t<li>Riak 1.0 Preview Meetups are happening in both San Francisco and New York on September 8th. If you&#8217;re in the area and aren&#8217;t already registered, you should do so; seats are going fast.<br />\n&#8594; <a href=\"http://www.meetup.com/San-Francisco-Riak-Meetup/events/30127311/\">SF</a> <br />\n&#8594; <a href=\"http://www.meetup.com/NYC-Riak-Meetup/events/29181101/\"><span class=\"caps\">NYC</span></a></li>\n\t<li>We added three new logos to the &#8220;Who is Using Riak&#8221; page on the Wiki.<br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#clipboard\">Clipboard</a> (Thanks, Ken!)<br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#github\">GitHub</a> (Thanks, Corey!)<br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#mochimedia\">Mochi Media</a> <br />\n  (Thanks, David! Also, it should be said that Mochi has been in production for<br />\nover year now.)<br />\n&#8594; And if you&#8217;ve got a logo for the wiki, don&#8217;t hesitate to <a href=\"https://github.com/basho/riak_wiki\">fork the wiki repo</a> and add your details (or email me)</li>\n\t<li>Looks like Duncan McGreggor has his Django Riak Engine code up on GitHub. (I posted a link to the Launchpad repo for this code in the last recap.)<br />\n&#8594; <a href=\"https://github.com/oubiwann/django-riak-engine\">Code here</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-02T07:00:00.000Z",
+  "_id": "2011-09-02T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 2 2011"
+}

@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 12 - 13",
+  "link": "http://recap.basho.com/2011/09/14/Riak-Recap-for-September-12-13",
+  "guid": "http://recap.basho.com/2011/09/14/Riak-Recap-for-September-12-13",
+  "updated": "2011-09-14T00:00:00+00:00",
+  "pubdate": "2011-09-14T07:00:00.000Z",
+  "rfc822": "Wed, 14 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/14/Riak-Recap-for-September-12-13",
+  "description": "<p><em>Posted on September 14, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>For today&#8217;s Recap: blog posts, new code, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 12 &#8211; 13</strong></p>\n<ol>\n\t<li>We released Riak 1.0.0pre3. <br />\n&#8594; Downloads and updated release notes <a href=\"http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005617.html\">here</a></li>\n\t<li>Greg Stein and Reid Draper continue to do great stuff for the Python client.<br />\n&#8594; <a href=\"https://github.com/basho/riak-python-client/commits/master\">Latest contributions here</a></li>\n\t<li>Kyle Kingsbury shared a sneak peak of the Riak metrics app he and John Muellerleile will be showing off at the talk they are giving on September 26th in San Francisco.<br />\n&#8594; <a href=\"http://twitter.com/#!/aphyr/statuses/113444452374294528\">Picture and talk details here</a></li>\n\t<li>Mark Steele wrote a great post about how to stream chunk encoded <span class=\"caps\">HTTP</span> responses that should be particularly interesting to any <span class=\"caps\">PHP</span> devs on the list.<br />\n&#8594; <a href=\"http://www.control-alt-del.org/2011/09/09/streaming-results-from-riak-over-http-in-php/\">Read here</a></li>\n\t<li>Basho Dev. Rusty Klophaus wrote a blog post all about Secondary Indexing.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/09/14/Secondary-Indexes-in-Riak/\">Read here</a><br />\n&#8594; <a href=\"http://news.ycombinator.com/item?id=2997276\">Hacker News Discussion</a></li>\n\t<li>We merged a sizable contribution to Riak Search from Greg Pascale and the Clipboard.com team that adds support for the &#8216;fl&#8217; <span class=\"caps\">SOLR</span> parameter. Thanks, Greg! (Did I mention <a href=\"https://www.clipboard.com/jobs\">Clipboard is hiring</a>?)<br />\n&#8594; <a href=\"https://github.com/basho/riak_search/commit/44031bcc8e0744c7204f7f06840486e37742e13a\">Commit here</a></li>\n\t<li>We merged a small contribution to Riak from Morten Siebuhr. Thanks, Morten!<br />\n&#8594; <a href=\"https://github.com/basho/riak/commit/87fcc71174f93dd2a0254a2a57f6f76d5ef30717\">Commit here</a></li>\n\t<li>Another reminder about the Riak training happening Surge next week &#8230;<br />\n&#8594; <a href=\"http://omniti.com/surge/2011/sessions/training\">Details and registration here</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-14T07:00:00.000Z",
+  "_id": "2011-09-14T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 14 2011"
+}

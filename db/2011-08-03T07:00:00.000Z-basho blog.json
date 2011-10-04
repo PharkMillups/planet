@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Follow Up To Riak And Python Webinar",
+  "link": "http://blog.basho.com/2011/08/03/Follow-Up-To-Riak-And-Python-Webinar",
+  "guid": "http://blog.basho.com/2011/08/03/Follow-Up-To-Riak-And-Python-Webinar",
+  "updated": "2011-08-03T00:00:00+00:00",
+  "pubdate": "2011-08-03T07:00:00.000Z",
+  "rfc822": "Wed, 03 Aug 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/08/03/Follow-Up-To-Riak-And-Python-Webinar",
+  "description": "<p><em>August 3, 2011</em></p>\n\n<p>Thanks to everyone who attended yesterday's webinar on Riak and Python. If you\nmissed the webinar, we've got you covered. Find a screencast of the webinar\nbelow, or check it out directly on <a href=\"http://vimeo.com/27210515\">Vimeo</a>. Sorry\nthat it's missing the questions I answered at the end. I recapped the questions\nin written form below to make up for it.</p>\n\n<p>We made the <a href=\"http://riak-python-webinar2011.heroku.com/\">slides available</a> for\nyour viewing pleasure as well. But most importantly, have a look at our <a href=\"https://github.com/basho/riak-python-client\">Python\nlibrary for Riak</a>, which got a lot\nof feature love lately, and at the source code for\n<a href=\"http://github.com/basho/riagi\">Riagi</a>, the sample Django application. It\nutilizes Riak for session and file storage, and Riak Search storing user and\nimage metadata.</p>\n\n<p>Thanks to <a href=\"http://dotcloud.com\">dotCloud</a> for providing the hosting for\n<a href=\"http://i.riagi.com\">Riagi</a>. A <a href=\"http://docs.dotcloud.com/services/roadmap/\">little\nbirdie</a> told us they're working on\nsupporting Riak as part of their official stack soon. You can also find the Chef\ncookbooks used to deploy Riak on EC2 and <a href=\"http://scalarium.com\">Scalarium</a> on\n<a href=\"https://github.com/mattmatt/scalarium-riak\">GitHub</a>.</p>\n\n<p>The Python client for Riak wouldn't exist without the community, so we want to\nsay thank you for your contributions, and we're always ready for more pull\nrequests!</p>\n\n<p>Keep an eye out for a new release of the Python client this week, including\nseveral of the new features shown in the webinar!</p>\n\n<iframe src=\"http://player.vimeo.com/video/27210515?title=0&amp;byline=0&amp;portrait=0\" width=\"399\" height=\"300\" frameborder=\"0\"></iframe>\n\n\n<p>The two questions asked at the end were:</p>\n\n<ul>\n<li><p>Is there a Scala client for Riak?\nLinks relevant to the answer in the video: <a href=\"https://github.com/timperrett/riakka\">Outdated Scala Library</a>, a more <a href=\"https://github.com/n8han/riakka\">recent fork</a>, and our official <a href=\"https://github.com/basho/riak-java-client\">Java client</a>.</p></li>\n<li><p>Is Protocol Buffers more efficient than using HTTP?\nAnswer is detailed in the webinar video.</p></li>\n</ul>\n\n",
+  "isoTimestamp": "2011-08-03T07:00:00.000Z",
+  "_id": "2011-08-03T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Aug 3 2011"
+}

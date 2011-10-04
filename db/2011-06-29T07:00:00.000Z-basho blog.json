@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Office Hours Today at 2 at BashoWest",
+  "link": "http://blog.basho.com/2011/06/29/Riak-Office-Hours-Today-at-2-Pacific-at-BashoWest",
+  "guid": "http://blog.basho.com/2011/06/29/Riak-Office-Hours-Today-at-2-Pacific-at-BashoWest",
+  "updated": "2011-06-29T00:00:00+00:00",
+  "pubdate": "2011-06-29T07:00:00.000Z",
+  "rfc822": "Wed, 29 Jun 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/06/29/Riak-Office-Hours-Today-at-2-Pacific-at-BashoWest",
+  "description": "<p><strong>June 29, 2011</strong></p>\n<p>I <a href=\"http://blog.basho.com/2011/06/22/Annoucing-Riak-Office-Hours-at-BashoWest/\">announced last week</a> that we were going to start holding open office hours at BashoWest. Today, at 2 Pacific, Riak office hours begin officially.</p>\n<p>In the office today will be myself, <a href=\"http://twitter.com/#!/argv0\">Andy Gross</a>, and <a href=\"http://twitter.com/#!/reverri\">Dan Reverri</a> , and we&#8217;ll be at-the-ready to answer and chat about anything Riak, Erlang, open Source, etc.</p>\n<p>Here are the official details:</p>\n<ul>\n\t<li><strong>When</strong>: Today, 2PM Pacific until about 5</li>\n\t<li><strong>Where</strong>: BashoWest &#8211; 929 Market St., Suite 500, San Francisco</li>\n\t<li><strong>How</strong>: Find &#8220;Basho&#8221; on the front door buzzer and give us a call to be let in. (If asked for a password, &#8220;webscale&#8221; or &#8220;dev/null&#8221; will suffice.)</li>\n\t<li><strong>Who Should Come</strong>: Anyone with questions/comments/concerns about Riak, Erlang, open source software, community building, or databases.</li>\n</ul>\n<p>Shoot an email to mark@basho.com or <a href=\"http://twitter.com/#!/pharkmillups\">find me on Twitter</a> if you&#8217;ve got any specific questions or are having issues getting into or finding the office.</p>\n<p>Hope to see you all this afternoon.</p>\n<p><a href=\"http://twitter.com/#!/pharkmillups\">Mark</a></p>",
+  "isoTimestamp": "2011-06-29T07:00:00.000Z",
+  "_id": "2011-06-29T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jun 29 2011"
+}

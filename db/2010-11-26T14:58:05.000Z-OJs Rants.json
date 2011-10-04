@@ -1,0 +1,18 @@
+{
+  "enclosures": [],
+  "title": "Issue with Google Reader",
+  "link": "http://buffered.io/2010/11/26/issue-with-google-reader/",
+  "pubdate": "2010-11-26T14:58:05.000Z",
+  "rfc822": "Fri, 26 Nov 2010 06:58:05 -0800",
+  "category": "Google",
+  "guid": "http://buffered.io/2010/11/26/issue-with-google-reader/",
+  "description": "<p>For some reason Google Reader has failed to update and include my latest <a href=\"http://buffered.io/2010/10/13/webmachine-erlydtl-and-riak-part-3/\">Web Development in Erlang</a> post. This is rather odd as every other RSS reader I have tested (including the one built-in to MS Outlook) has managed to parse and handle the post just fine. I have attempted to get in touch with the GReader team but I haven't had any luck so far in getting them to respond.</p>\n<p>Those of you who are using Google Reader and are interested in this post, please point your browser in <a href=\"http://buffered.io/2010/10/13/webmachine-erlydtl-and-riak-part-3/\">this direction</a>.</p>\n<p>Apologies for the issue.</p>",
+  "isoTimestamp": "2010-11-26T14:58:05.000Z",
+  "_id": "2010-11-26T14:58:05.000Z-OJs Rants",
+  "site": {
+    "feed": "http://buffered.io/feed/index.xml",
+    "author": "OJ Reeves",
+    "link": "http://buffered.io/"
+  },
+  "displayDate": "Nov 26 2010"
+}

@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 14 - 15",
+  "link": "http://recap.basho.com/2011/09/16/Riak-Recap-for-September-14-15",
+  "guid": "http://recap.basho.com/2011/09/16/Riak-Recap-for-September-14-15",
+  "updated": "2011-09-16T00:00:00+00:00",
+  "pubdate": "2011-09-16T07:00:00.000Z",
+  "rfc822": "Fri, 16 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/16/Riak-Recap-for-September-14-15",
+  "description": "<p><em>Posted on September 16, 2011</em></p>\n<p>Afternoon Evening, Morning To All -</p>\n<p>For today&#8217;s Recap: meetups, new production users, jobs, and more.</p>\n<p>Enjoy and have a great weekend.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 14 &#8211; 15</strong></p>\n<ol>\n\t<li>Riak 1.0.0pre4 is available for download. <br />\n&#8594; Downloads and Release Notes <a href=\"http://lists.basho.com/pipermail/riak-users_lists.basho.com/2011-September/005664.html\">here</a></li>\n\t<li>Jeff Kirkell is giving a Riak Talk at PhillyDB on Sept. 20. Thanks, Jeff!<br />\n&#8594; <a href=\"http://www.meetup.com/PhillyDB/events/32767442/\">Details here</a></li>\n\t<li>We added WorthPoint to the production users page on the wiki. (h/t to <a href=\"http://twitter.com/wmacgyver\">Mac Liaw</a> for making this happen!)<br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#worthpoint\">Details here</a></li>\n\t<li>There&#8217;s a question on StackOverflow about link walking that (at time of writing) is still unanswered for anyone looking to get ambitious over the weekend.<br />\n&#8594; <a href=\"http://stackoverflow.com/questions/7440129/link-walking-with-riak-search-for-common-friends\">Here</a></li>\n\t<li>Clint Shryock will be representing Riak at a NoSQL Smackdown happening on September 28 at the ComoRichWeb meetup in Columbia, MO. Thanks, Clint!<br />\n&#8594; <a href=\"http://comorichweb.posterous.com/next-meetup-nosql-smackdown-september-28th\">Details here</a></li>\n\t<li>Two great jobs to pass along:<br />\n&#8594; BankSimple is looking for a Data Scientist in Portland, Oregon. <a href=\"http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&amp;jobid=78538\">Details here</a><br />\n&#8594; CrowdFlower is hiring a Sr. Web Engineer in San Francisco with &#8220;Mongo, Riak, or Couch&#8221; experience. <a href=\"http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&amp;jobid=77858\">Details here</a></li>\n\t<li>Reminder about two great events happening on September 21:<br />\n&#8594; <a href=\"http://riak1dot0nyc.eventbrite.com\">Riak 1.0 Party in <span class=\"caps\">NYC</span></a> (almost full, btw)<br />\n&#8594; <a href=\"http://info.basho.com/overview_1.0.html\">Riak 1.0 Overview with Andy Gross and Justin Sheehy</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-16T07:00:00.000Z",
+  "_id": "2011-09-16T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 16 2011"
+}

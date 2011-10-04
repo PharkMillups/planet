@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 1 - 2",
+  "link": "http://recap.basho.com/2011/08/03/Riak-Recap-for-August-01-02",
+  "guid": "http://recap.basho.com/2011/08/03/Riak-Recap-for-August-01-02",
+  "updated": "2011-08-03T00:00:00+00:00",
+  "pubdate": "2011-08-03T07:00:00.000Z",
+  "rfc822": "Wed, 03 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/03/Riak-Recap-for-August-01-02",
+  "description": "<p><em>Posted on August 03, 2011</em></p>\n<p>Afternoon, Morning, Evening to All -</p>\n<p>For today&#8217;s Recap: A new release of the .<span class=\"caps\">NET</span> client, jobs, screencasts, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 1 &#8211; 2</strong></p>\n<ol>\n\t<li>Someone brought a project called &#8220;Tiramola&#8221; to my attention recently. It&#8217;s billing itself as an &#8220;automatic IaaS manager that provides elastic NoSQL DB clusters.&#8221; Looks like Riak support will be finished in the near future.<br />\n&#8594; <a href=\"http://code.google.com/p/tiramola/\">Code here</a></li>\n\t<li>OJ Reeves et al released version 0.1.1 of CorrugatedIron, their .<span class=\"caps\">NET</span> client for Riak.<br />\n&#8594; <a href=\"http://buffered.io/posts/corrugatediron-update-v0-1-1/\">Extensive blog post with all the release details here</a><br />\n&#8594; <a href=\"http://corrugatediron.org/downloads.html\">Downloads</a></li>\n\t<li>Mathias Meyer posted a great writeup, complete with screencast, of the Riak with Python Webinar that happened yesterday.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/08/03/Follow-Up-To-Riak-And-Python-Webinar/\">Read here</a></li>\n\t<li>A few jobs to pass along:<br />\n&#8594; Function(x), a stealth startup out of <span class=\"caps\">NYC</span>, is hiring engineers. <a href=\"http://jobs.37signals.com/jobs/9456\">Details here</a>. <br />\n&#8594; Also in <span class=\"caps\">NYC</span>, Single Platform is hiring engineers. Riak experience required. <a href=\"http://www.ventureloop.com/ventureloop/jobdetail.php?r=f_sh&amp;jobid=62842\">Details here</a></li>\n\t<li><a href=\"http://twitter.com/#!/old_sound/statuses/98503438761066496\">I&#8217;ve just received word that Riak is officially mountain scale.</a></li>\n</ol>",
+  "isoTimestamp": "2011-08-03T07:00:00.000Z",
+  "_id": "2011-08-03T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 3 2011"
+}

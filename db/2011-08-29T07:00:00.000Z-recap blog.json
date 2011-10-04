@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 26 - 28",
+  "link": "http://recap.basho.com/2011/08/29/Riak-Recap-For-August-26-28",
+  "guid": "http://recap.basho.com/2011/08/29/Riak-Recap-For-August-26-28",
+  "updated": "2011-08-29T00:00:00+00:00",
+  "pubdate": "2011-08-29T07:00:00.000Z",
+  "rfc822": "Mon, 29 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/29/Riak-Recap-For-August-26-28",
+  "description": "<p><em>Posted on August 29, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>A few blog posts, jobs, and a small <span class=\"caps\">README</span> update for today&#8217;s Recap.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 26 &#8211; 28</strong></p>\n<ol>\n\t<li>Lengthy blog post about Riak Usage Patterns (in Russian).<br />\n&#8594; <a href=\"http://habrahabr.ru/blogs/nosql/127228\">Read here</a></li>\n\t<li>Great blog post Analyzing Apache Logs with Riak&#8217;s MapReduce.<br />\n&#8594; <a href=\"http://www.simonbuckle.com/2011/08/27/analyzing-apache-logs-with-riak/\">Read here</a></li>\n\t<li>The merge_index <span class=\"caps\">README</span> got some small but valuable updates from rampage.<br />\n&#8594; <a href=\"https://github.com/basho/merge_index/pull/14\">Pull request here</a></li>\n\t<li>A few great jobs to pass along:<br />\n&#8594; Sencha is looking for a Cloud Services DevOps Engineer in Redwood City, CA, to work with Riak and a whole slew of other cool technologies. <a href=\"http://www.sencha.com/company/careers/?gnk=job&amp;gni=8aa0050631ec0ce20132072085b720b6&amp;gns=Simply+Hired\">Details here</a>.<br />\n&#8594; SEOMoz is hiring a Test Lead in the Seattle Area to with Riak and Cassandra experience. <a href=\"http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&amp;k=Job&amp;j=oFNHVfwO&amp;s=About_-_Jobs_Page\">Details here</a>.</li>\n</ol>",
+  "isoTimestamp": "2011-08-29T07:00:00.000Z",
+  "_id": "2011-08-29T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 29 2011"
+}

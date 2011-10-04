@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Office Hours Happening This Wednesday at BashoWest",
+  "link": "http://blog.basho.com/2011/08/01/Riak-Office-Hours-Happening-Wednesday-August-3",
+  "guid": "http://blog.basho.com/2011/08/01/Riak-Office-Hours-Happening-Wednesday-August-3",
+  "updated": "2011-08-01T00:00:00+00:00",
+  "pubdate": "2011-08-01T07:00:00.000Z",
+  "rfc822": "Mon, 01 Aug 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/08/01/Riak-Office-Hours-Happening-Wednesday-August-3",
+  "description": "<p><strong>August 1, 2011</strong></p>\n<p>Office Hours are happening again this week at BashoWest. As usual, the Bay Area crew will be on hand to answer any and all of your Riak queries and to chat about anything software related. And we have a special guest in the in the office this week: <a href=\"http://blog.basho.com/2011/04/13/Ryan-Zezeski-Has-Joined-The-Basho-Team/\">Ryan Zezeski</a>. Ryan is visiting from Baltimore and is particularly passionate about Riak Search.</p>\n<p>As usual, these will run from about 2 &#8211; 5 Pacific (but the office door will be open all day).</p>\n<p>Official details are as follows:</p>\n<ul>\n\t<li><strong>When</strong>: Wednesday, August 3rd, from 2PM Pacific until about 5</li>\n\t<li><strong>Where</strong>: BashoWest &#8211; 929 Market St., Suite 500, San Francisco, CA</li>\n\t<li><strong>How</strong>: Find &#8220;Basho&#8221; on the front door buzzer and give us a call to be let up</li>\n\t<li><strong>Who Should Come</strong>: Anyone with questions/comments/concerns about Riak, Erlang, open source software, community building, or databases.</li>\n</ul>\n<p>Hope to see you Wednesday. Shoot an email to <strong>mark@basho.com</strong> or <a href=\"https://twitter.com/pharkmillups\">find me on twitter</a> if you have any questions.</p>\n<p>Mark</p>",
+  "isoTimestamp": "2011-08-01T07:00:00.000Z",
+  "_id": "2011-08-01T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Aug 1 2011"
+}

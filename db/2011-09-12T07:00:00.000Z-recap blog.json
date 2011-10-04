@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 9 - 11",
+  "link": "http://recap.basho.com/2011/09/12/Riak-Recap-for-September-9-11",
+  "guid": "http://recap.basho.com/2011/09/12/Riak-Recap-for-September-9-11",
+  "updated": "2011-09-12T00:00:00+00:00",
+  "pubdate": "2011-09-12T07:00:00.000Z",
+  "rfc822": "Mon, 12 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/12/Riak-Recap-for-September-9-11",
+  "description": "<p><em>Posted on September 12, 2011</em></p>\n<p>Afternoon, Evening, Morning to All</p>\n<p>For today&#8217;s Recap: talks, blog posts, jobs, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 9 &#8211; 11</strong></p>\n<ol>\n\t<li><a href=\"http://twitter.com/mcavage\">Mark Cavage</a> wrote a lengthy post on just about everything you would ever want to know about <span class=\"caps\">LDAP</span>. More importantly he explains why he&#8217;s working on it at Joyent and why they are using Riak with <span class=\"caps\">LDAP</span>.<br />\n&#8594; <a href=\"http://blog.nodejs.org/2011/09/08/ldapjs-a-reprise-of-ldap/\">Read here</a></li>\n\t<li>Basho <span class=\"caps\">COO</span> Tony Falco was in the Wall St. Journal talking about the history of Basho and Riak, why Riak is so compelling. Basho is part of the &#8220;Small Business, Large Innovation&#8221; competition the <span class=\"caps\">WSJ</span> is running and we could use your vote.<br />\n&#8594; <a href=\"http://blogs.wsj.com/biginnovation/2011/09/09/basho-technologies\">Read and vote here</a>.</li>\n\t<li>Strange Loop is less than a week away, so here&#8217;s the rundown of Riak-flavored talks happening in St. Louis next week.<br />\n&#8594; Susan Potter will be talking about using riak_core to build<br />\ndistributed applications. <a href=\"https://thestrangeloop.com/sessions/dynamo-is-not-just-for-datastores\">Details here</a>.<br />\n&#8594; Kresten Krab Thorup will be talking about Bringing Riak to the Mobile Platform. <a href=\"https://thestrangeloop.com/sessions/bringing-riak-to-the-mobile-platform\">Details here</a>.<br />\n&#8594; Sean Cribbs will be talking about Riak&#8217;s MapReduce in relation to traditional <span class=\"caps\">SQL</span>. <a href=\"https://thestrangeloop.com/sessions/wrap-your-sql-head-around-riak-mapreduce\">Details here</a>.<br />\n<em>I&#8217;ll also be in attendance. Ping me if you&#8217;ll be there.</em></li>\n\t<li><a href=\"http://twitter.com/ethangunderson\">Ethan Gunderson</a> built a Riak Rubik&#8217;s cube.<br />\n&#8594; <a href=\"http://twitpic.com/6k0int\">Picture here</a>.</li>\n\t<li>One great job to pass along:<br />\n&#8594; truSEF, a financial services startup in <span class=\"caps\">NYC</span>, is hiring Senior Software Engineers to work on their infrastructure (and there&#8217;s a lot of Riak involved). <a href=\"http://truesef.com/jobs/sse.html\">Details here</a>.</li>\n</ol>",
+  "isoTimestamp": "2011-09-12T07:00:00.000Z",
+  "_id": "2011-09-12T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 12 2011"
+}

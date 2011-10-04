@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak at Formspring",
+  "link": "http://blog.basho.com/2011/08/08/Riak-at-Formspring-Video-from-SF-Riak-Meetup",
+  "guid": "http://blog.basho.com/2011/08/08/Riak-at-Formspring-Video-from-SF-Riak-Meetup",
+  "updated": "2011-08-08T00:00:00+00:00",
+  "pubdate": "2011-08-08T07:00:00.000Z",
+  "rfc822": "Mon, 08 Aug 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/08/08/Riak-at-Formspring-Video-from-SF-Riak-Meetup",
+  "description": "<p><strong>August 8, 2011</strong></p>\n<p>Several weeks back at the <a href=\"http://www.meetup.com/San-Francisco-Riak-Meetup/events/24779281/\">San Francisco Riak Meetup</a>, <a href=\"http://twitter.com/#!/pims\">Tim Bart</a> of Formspring delivered a great talk to a packed house all about how he and his team are using Riak for two new features they were rolling out to their more than 24 million users. I&#8217;m happy to report that the video is online, edited, and ready for viewing.</p>\n<p>This one runs just over 28 minutes and is an excellent overview of what <a href=\"http://www.formspring.me/\">Formpsring</a> is all about, why they chose Riak, and lessons learned (both good and bad) when developing against Riak. Tim also touches on what plans they have for Riak in the future and, as any thorough user of a given technology should, makes some suggestions for functionality he and his team would like to see in Riak.</p>\n<p><strong>A few notes:</strong></p>\n<ul>\n\t<li>At just over a minute into the talk, Tim references the &#8220;Riak and Scala at Yammer&#8221; talk. You can view that <a href=\"http://blog.basho.com/2011/03/28/Riak-and-Scala-at-Yammer/\">here</a>.</li>\n\t<li>There were several questions at the end of the talk but there was a problem with the microphone so we had to cut them off. If you have any questions, leave them in the comments and Tim will answer them when he has the opportunity. (Thanks, Tim!)</li>\n</ul>\n<p>Enjoy. </p>\n<p><a href=\"http://twitter.com/#!/pharkmillups\">Mark</a></p>\n<iframe src=\"http://player.vimeo.com/video/27208328?title=0&amp;byline=0&amp;portrait=0\" width=\"400\" height=\"225\" frameborder=\"0\"></iframe>",
+  "isoTimestamp": "2011-08-08T07:00:00.000Z",
+  "_id": "2011-08-08T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Aug 8 2011"
+}

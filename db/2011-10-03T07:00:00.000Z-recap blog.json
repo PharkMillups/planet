@@ -1,0 +1,18 @@
+{
+  "title": "Riak Recap for September 28 - October 02",
+  "link": "http://recap.basho.com/2011/10/03/Riak-Recap-for-September-28-October-02",
+  "guid": "http://recap.basho.com/2011/10/03/Riak-Recap-for-September-28-October-02",
+  "updated": "2011-10-03T00:00:00+00:00",
+  "pubdate": "2011-10-03T07:00:00.000Z",
+  "rfc822": "Mon, 03 Oct 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/10/03/Riak-Recap-for-September-28-October-02",
+  "description": "<p><em>Posted on October 02, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>For today&#8217;s Recap: new code, talks, slides, jobs, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 28 &#8211; October 2</strong></p>\n<ol>\n\t<li>The slides from the Riak training that Ian Plosker and Sean Cribbs delivered last week are online.<br />\n&#8594; <a href=\"http://twitter.com/#!/DstroyAllModels/status/119432353029431297\">Check them out here</a></li>\n\t<li>There was some great discussion on Hacker News following the official release of Riak 1.0.<br />\n&#8594; <a href=\"http://news.ycombinator.com/item?id=3058495\">Read and participate here</a></li>\n\t<li>The Riak Homebrew recipe was updated to 1.0. (Thanks, Bryce!)<br />\n&#8594; <a href=\"https://twitter.com/#!/BonzoESC/status/120206964683845632\">Commit here on GitHub</a></li>\n\t<li>Justin Calleja wrote a blog post called &#8220;Erlang transport test drive&#8221; that demonstrates how to use David Dossot&#8217;s Erlang transport for Mule (using a Riak-backed demo app). (Thanks, Justin!)<br />\n&#8594; <a href=\"http://ricston.com/blog/?p=1823\">Read here</a></li>\n\t<li>Basho is holding a webinar all about 1.0&#8217;s new query-related features and functionality.<br />\n&#8594; <a href=\"http://ht.ly/6Mr4y\">Registration and details here</a></li>\n\t<li>For anyone in San Francisco: there will be Tech Talk this Wednesday at the Boundary offices. John M will be giving details on the Riak-backed app they have running at ShowYou (and the Scalang talk definitely won&#8217;t disappoint).<br />\n&#8594; Seats are limited. <a href=\"http://www.meetup.com/Boundary-Tech-Talks/events/35972122/\">Details here</a></li>\n\t<li>Kyle Kingsbury released new version of Risky.<br />\n&#8594; <a href=\"https://twitter.com/#!/rubygems/statuses/121031334251601920\">Latest here</a></li>\n\t<li>A few great jobs to pass along:<br />\n&#8594; Synacor <a href=\"http://jobs.arstechnica.com/list/1123/\">is hiring a Web Software Architect in Buffalo</a>, NY to work with Riak.<br />\n&#8594; Root Labs, based in Oakland, <a href=\"http://www.rootlabs.com/developer-job.html\">is hiring a Lead Engineer</a> with a good understanding of Riak and Redis.</li>\n</ol>",
+  "isoTimestamp": "2011-10-03T07:00:00.000Z",
+  "_id": "2011-10-03T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Oct 3 2011"
+}

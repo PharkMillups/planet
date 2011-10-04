@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak and Python Webinar Happening August 2 at 2PM Eastern",
+  "link": "http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2",
+  "guid": "http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2",
+  "updated": "2011-07-19T00:00:00+00:00",
+  "pubdate": "2011-07-19T07:00:00.000Z",
+  "rfc822": "Tue, 19 Jul 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2",
+  "description": "<p><strong>July 18, 2011</strong></p>\n<p>Developer interest in using Riak with Python has accelerated tremendously over the past several months, and production applications using this combination are appearing at an impressive rate. So, we thought it was time for <a href=\"http://info.basho.com/RiakandPythonJul2011_WebinarRegistration.html\">a free Webinar</a> to bring community members and those new to Riak up to speed on why Riak and Python is such a powerful combination for your production applications.</p>\n<p>In this webinar, Basho Developer Advocate <a href=\"http://twitter.com/#!/roidrage\">Mathias Meyer</a> will take you on a whirlwind tour of what you can expect when working with Riak and Python.</p>\n<p>Here is what we have planned:</p>\n<ul>\n\t<li>A (very) brief introduction to Riak</li>\n\t<li>Why Riak and Python?</li>\n\t<li>An overview of the <a href=\"https://github.com/basho/riak-python-client\">Python Client</a></li>\n\t<li>Riak and Python (and Django) in Action: Building and Deploying a Simple <a href=\"http://imgur.com/\">imgur.com</a> Clone Using Riak, Luwak, and Riak Search</li>\n</ul>\n<p>This will be happening at 2PM Eastern on August 2nd, and should run about 45 minutes (questions included).</p>\n<p><a href=\"http://info.basho.com/RiakandPythonJul2011_WebinarRegistration.html\">Register Here</a>.</p>\n<p>Hope you can join us! As usual, let us know if you have any questions.</p>\n<p><a href=\"http://twitter.com/#!/basho/team\">The Basho Team</a></p>",
+  "isoTimestamp": "2011-07-19T07:00:00.000Z",
+  "_id": "2011-07-19T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jul 19 2011"
+}

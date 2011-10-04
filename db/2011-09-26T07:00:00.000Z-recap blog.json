@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 23 - 25",
+  "link": "http://recap.basho.com/2011/09/26/Riak-Recap-September-23-25",
+  "guid": "http://recap.basho.com/2011/09/26/Riak-Recap-September-23-25",
+  "updated": "2011-09-26T00:00:00+00:00",
+  "pubdate": "2011-09-26T07:00:00.000Z",
+  "rfc822": "Mon, 26 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/26/Riak-Recap-September-23-25",
+  "description": "<p><em>Posted on September 26, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>Here&#8217;s a short Recap to kick the week off.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 23 &#8211; 25</strong></p>\n<ol>\n\t<li>Mark Cavage released an update a few days ago to his ldapjs-riak code.<br />\n&#8594; <a href=\"http://twitter.com/#!/nodenpm/statuses/117394205319495680\">Details here</a></li>\n\t<li>Scott Milkens brought his EngineYard AppCloud Riak Cookbooks inline with the 1.0 RC1 release.<br />\n&#8594; <a href=\"http://twitter.com/#!/scottmlikens/statuses/118077403389104128\">Details here</a></li>\n\t<li>Kyle Kingsbury, John Muellerleile, and few others held an event tonight at the ShowYou offices in San Francisco to talk about what technologies they are using in production. Kyle&#8217;s slides made it online already.<br />\n&#8594; <a href=\"http://aphyr.com/scaling_at_showyou.pdf\">Check them out there</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-26T07:00:00.000Z",
+  "_id": "2011-09-26T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 26 2011"
+}

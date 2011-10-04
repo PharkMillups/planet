@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 12 - 14",
+  "link": "http://recap.basho.com/2011/08/15/Riak-Recap-for-August-12-14",
+  "guid": "http://recap.basho.com/2011/08/15/Riak-Recap-for-August-12-14",
+  "updated": "2011-08-15T00:00:00+00:00",
+  "pubdate": "2011-08-15T07:00:00.000Z",
+  "rfc822": "Mon, 15 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/15/Riak-Recap-for-August-12-14",
+  "description": "<p><em>Posted on August 15, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>Short Recap to start the week off.</p>\n<p>Enjoy. </p>\n<p><a href=\"https://twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 12 -14</strong></p>\n<ol>\n\t<li>Any production users in/around <span class=\"caps\">NYC</span>? Get in touch with me. I have a few a questions for you.</li>\n\t<li>Brian Rowe wrote up a blog post about using Lager. Thanks, Brian!<br />\n&#8594; <a href=\"http://cartesianfaith.wordpress.com/2011/08/15/a-lager-primer-or-getting-started-with-lager-for-logging/\">Read here</a></li>\n\t<li>Riak builds turned up on Travis CI today.<br />\n&#8594; <a href=\"http://staging.travis-ci.org/#!/wardbekker/riak/builds/3346\">Details here</a></li>\n\t<li>seancribbs and bfrog had a very brief chat in #riak about secondary indices.<br />\n&#8594; <a href=\"https://gist.github.com/1148262\">Read here</a></li>\n</ol>",
+  "isoTimestamp": "2011-08-15T07:00:00.000Z",
+  "_id": "2011-08-15T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 15 2011"
+}

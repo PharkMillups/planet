@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Ripple Hackathon Happening Next Week at BashoWest",
+  "link": "http://blog.basho.com/2011/07/07/Ripple-Hackathon-Happening-Next-Week-at-Basho-West",
+  "guid": "http://blog.basho.com/2011/07/07/Ripple-Hackathon-Happening-Next-Week-at-Basho-West",
+  "updated": "2011-07-07T00:00:00+00:00",
+  "pubdate": "2011-07-07T07:00:00.000Z",
+  "rfc822": "Thu, 07 Jul 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/07/07/Ripple-Hackathon-Happening-Next-Week-at-Basho-West",
+  "description": "<p><strong>July 07, 2011</strong></p>\n<p><a href=\"http://twitter.com/#!/seancribbs\">Sean Cribbs</a> was recruited by Basho to build <a href=\"https://github.com/seancribbs/ripple\">Ripple</a>, Riak&#8217;s official Ruby client, some 18 months ago, with <a href=\"https://github.com/seancribbs/ripple/commit/b063517923325b58acff0e5abf5a61778d8186e1\">the first</a> commit dating all the way back to January of 2010.  Since then, Sean and the huge, active community of Ruby users have turned Ripple into a powerful library that&#8217;s mature, flexible, and used in countless production applications.</p>\n<p>Ripple currently stands at version 0.9.x, and it&#8217;s time to get it over that ever-so-challenging 1.0 hump. To do that, Basho invited the entire team of Ripple Committers to come out to San Francisco for what will be the first (official) Ripple Hackathon. From Monday, July 11 up through Wednesday, July 13, Sean and the official Ripple Committers will be heads down, moving towards Ripple towards 1.0 at <a href=\"http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you/\">BashoWest</a>.</p>\n<h2>Why 1.0?</h2>\n<p>There&#8217;s a lot of <a href=\"https://github.com/seancribbs/ripple/issues?labels=feature&amp;sort=created&amp;direction=desc&amp;state=open&amp;page=1&amp;milestone=7\">cool features</a> planned for the next release, including better querying semantics, comprehensive metrics, richer modeling, and broader tooling. These are significant features that will lift Ripple into parity with other Ruby data-persistence libraries, so we think these advances warrant the elusive &#8220;1.0&#8221; version number.  The release will also likely coincide with the next major release of Riak (and some of the awesomeness therein), making the version bump even sweeter.</p>\n<h2>And You&#8217;re Invited, Too!</h2>\n<p>Basho likes to open its doors as much as possible to developers, and the Ripple Hackathon will be no different. While the members of the Ripple Committer team are the only people we&#8217;ve officially invited to the office, we would also like to extend an invitation to anyone who will be in the Bay Area <strong>and is using/considering using Riak with Ruby in some fashion.</strong> (Our office is large, but not huge.) If you&#8217;ve got something to contribute to the Hackathon, you&#8217;re encouraged to stop by. Door, desks, and whiteboard will be wide open. (<em>We will also be having Riak Office Hours on Wednesday, July 13th, to which any and all developers will be invited. Save the date. A blog post about that will be out next week.</em>) Shoot an email to <strong>mark@basho.com</strong> with any questions/comments/concerns.</p>\n<p>Hope to see you next week! In the meantime, <a href=\"http://downloads.basho.com/riak/CURRENT/\">go download Riak</a>.</p>\n<p><a href=\"http://twitter.com/#!/pharkmillups\">Mark</a></p>",
+  "isoTimestamp": "2011-07-07T07:00:00.000Z",
+  "_id": "2011-07-07T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jul 7 2011"
+}

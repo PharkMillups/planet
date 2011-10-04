@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for July 27 - 28",
+  "link": "http://recap.basho.com/2011/07/29/Riak-Recap-For-July-27-28",
+  "guid": "http://recap.basho.com/2011/07/29/Riak-Recap-For-July-27-28",
+  "updated": "2011-07-29T00:00:00+00:00",
+  "pubdate": "2011-07-29T07:00:00.000Z",
+  "rfc822": "Fri, 29 Jul 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/07/29/Riak-Recap-For-July-27-28",
+  "description": "<p><em>Posted on July 29, 2011</em></p>\n<p>Afternoon, Evening, Morning to All -</p>\n<p>Short Recap for today.</p>\n<p>Enjoy and have a great weekend.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for July 27 &#8211; 28</strong></p>\n<ol>\n\t<li>Last reminder to register for the &#8220;Riak and Python&#8221; webinar happening on August 2nd. (If you don&#8217;t register, you run the risk of hurting Mathias&#8217; feelings).<br />\n&#8594; <a href=\"http://blog.basho.com/2011/07/19/Riak-and-Python-Webinar-Happening-August-2/\">Details here</a></li>\n\t<li>Kresten Krab Thorup&#8217;s talk from Erlang Factory London about his Riak Mobile project is now available in video form.<br />\n&#8594; <a href=\"http://www.erlang-factory.com/conference/London2011/speakers/KrestenKrabThorup\">Watch here</a></li>\n\t<li>Looks like Riak will be one of the topics at the next Ruby Meetup happening in Colima, Mexico.<br />\n&#8594; <a href=\"http://www.meetup.com/rubyco/events/24982511/\">Details here</a></li>\n\t<li>Q &#8211; Is it possible to add data to a key in riak? (from doki_pen via #riak)<br />\n   A &#8211; No. You&#8217;ll always have to fetch, update, and store the object.</li>\n</ol>",
+  "isoTimestamp": "2011-07-29T07:00:00.000Z",
+  "_id": "2011-07-29T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Jul 29 2011"
+}

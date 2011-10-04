@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for September 7 - 8",
+  "link": "http://recap.basho.com/2011/09/09/Riak-Recap-for-September-07-08",
+  "guid": "http://recap.basho.com/2011/09/09/Riak-Recap-for-September-07-08",
+  "updated": "2011-09-09T00:00:00+00:00",
+  "pubdate": "2011-09-09T07:00:00.000Z",
+  "rfc822": "Fri, 09 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/09/Riak-Recap-for-September-07-08",
+  "description": "<p>Evening, Morning, Afternoon to All -</p>\n<p>For today&#8217;s Recap: talks, jobs, new production users, new code, screencasts, and more.</p>\n<p>Enjoy and have a great weekend.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for September 7 &#8211; 8</strong></p>\n<ol>\n\t<li>We added two more production users to the (newly-reorganized!) Riak Wiki. <br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#bump\">Bump</a> (h/t Will Moss)<br />\n&#8594; <a href=\"http://wiki.basho.com/Who-is-Using-Riak.html#seomoz\">SEOmoz</a>  (h/t Myron Marston)<br />\n<em>Who else is missing from the wiki?</em></li>\n\t<li>This is a ways off but still worth mentioning: Andy Gross is speaking on <span class=\"caps\">QCON</span> in San Francisco about Riak Use Cases.<br />\n&#8594; <a href=\"http://qconsf.com/sf2011/presentation/Riak+Use+Cases:+Dissecting+the+Solutions+to+Hard+Problems\">Details here</a></li>\n\t<li>Ryan Zezeski updated his &#8220;try try try&#8221; post on riak_core and the vnode.<br />\n&#8594; <a href=\"http://twitter.com/#!/rzezeski/status/111997743857274882\">Linked here</a></li>\n\t<li>The slides that Sean Cribbs and Dan Reverri used for their bi-coastal Riak 1.0 Preview talks last night are now online.<br />\n&#8594; <a href=\"http://riak-onedotoh-preview.heroku.com/#1\">Check them out here</a></li>\n\t<li>We merged some great contributions to the Python Client over the past few days from Greg Stein and Soren Hansen. (h/t to Brett Hoerner and Reid Draper for helping with the review.)<br />\n&#8594; <a href=\"https://github.com/basho/riak-python-client/commits/master\">Code here</a></li>\n\t<li>I sent out a link to this in a different thread today but it&#8217;s worth sharing again: Joe Blomstedt put together a screencast covering what Riak&#8217;s Cluster Membership looks like in 1.0.<br />\n&#8594; <a href=\"http://blog.basho.com/2011/09/09/Riak-Cluster-Membership-Overview/\">Grab a beer and go watch this</a></li>\n\t<li>Two great jobs to pass your way:<br />\n&#8594; Twitch.tv, which is part of the Justin.tv family, has some openings in San Francisco &#8211; and rumor has it that you&#8217;ll be working with Riak. <a href=\"http://www.twitch.tv/jobs\">Details here</a>. <br />\n&#8594; Strobe is looking for a DevPops Engineer. <a href=\"http://careers.strobecorp.com/apply/5xjbjW/DevOps-Engineer.html\">Details here</a>.</li>\n</ol>",
+  "isoTimestamp": "2011-09-09T07:00:00.000Z",
+  "_id": "2011-09-09T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 9 2011"
+}

@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "A Preview Of Cluster Membership In Riak 1.0",
+  "link": "http://blog.basho.com/2011/09/09/Riak-Cluster-Membership-Overview",
+  "guid": "http://blog.basho.com/2011/09/09/Riak-Cluster-Membership-Overview",
+  "updated": "2011-09-09T00:00:00+00:00",
+  "pubdate": "2011-09-09T07:00:00.000Z",
+  "rfc822": "Fri, 09 Sep 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/09/09/Riak-Cluster-Membership-Overview",
+  "description": "<p><strong>September 09, 2011</strong></p>\n<p>Being a distributed company, we make a lot of videos at Basho that are intended for internal consumption and used to educate everyone on new features, functionality, etc. Every once and a while someone makes a video that&#8217;s so valuable it&#8217;s hard not to share it with the greater community. This is one of those.</p>\n<p>This screencast is a bit on the long side, but it&#8217;s entirely worth it. Basho Software Engineer <a href=\"http://twitter.com/jtuple\">Joe Blomstedt</a> put it together to educate all of Basho on the new cluster membership code, features, and functionality coming in the Riak 1.0 release (due out at the end of the month). We aim to make Riak as operationally-simple as possible to operate at scale, and the choices we make and code we write around cluster membership form the crux of this simplicity.</p>\n<p>At the end of this you&#8217;ll have a better idea of what Riak&#8217;s cluster membership is all about, its major components, how it works in production, new commands that are present Riak 1.0, and much, much more.</p>\n<p>And, if you want to dig deeper into what Riak and cluster membership is all about, start here:</p>\n<ul>\n\t<li><a href=\"http://downloads.basho.com/riak/riak-1.0.0pre1/\">Download Riak 1.0 Pre-release 1</a></li>\n\t<li><a href=\"https://github.com/basho/riak_core\">Riak Core on GitHub</a></li>\n\t<li><a href=\"http://blog.basho.com/2011/04/12/Where-To-Start-With-Riak-Core/\">Where To Start With Riak Core</a> (from the Basho Blog)</li>\n\t<li><a href=\"http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com\">Join the Riak Mailing List</a></li>\n</ul>\n<p>(<em>It should be noted again that this was intended for internal consumption at Basho, so Joe&#8217;s tone and language reflect that in a few sections.</em>)</p>\n<p>Enjoy, and thanks for being a part of Riak.</p>\n<p><a href=\"http://twitter.com/#!/basho/team\">The Basho Team</a></p>\n<iframe src=\"http://player.vimeo.com/video/28826115?title=0&amp;byline=0&amp;portrait=0\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen allowFullScreen></iframe>",
+  "isoTimestamp": "2011-09-09T07:00:00.000Z",
+  "_id": "2011-09-09T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Sep 9 2011"
+}

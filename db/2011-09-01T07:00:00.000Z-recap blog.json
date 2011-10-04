@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 29 - 31",
+  "link": "http://recap.basho.com/2011/09/01/Riak-Recap-for-August-29-31",
+  "guid": "http://recap.basho.com/2011/09/01/Riak-Recap-for-August-29-31",
+  "updated": "2011-09-01T00:00:00+00:00",
+  "pubdate": "2011-09-01T07:00:00.000Z",
+  "rfc822": "Thu, 01 Sep 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/09/01/Riak-Recap-for-August-29-31",
+  "description": "<p><em>Posted on September 1, 2011</em></p>\n<p>Morning, Afternoon, Evening to All -</p>\n<p>For today&#8217;s Recap: Blog posts, upcoming talks, new code, and more.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 29 &#8211; 31</strong></p>\n<ol>\n\t<li>Haris Amin wrote a quick blog post about installing Riak on OS X Lion. Thanks, Haris!<br />\n&#8594; <a href=\"http://blog.harisamin.com/post/9658193785/install-riak-on-os-x-lion\">Read here</a></li>\n\t<li>The Chicago Boss Web Framework now supports Riak as a backend.<br />\n&#8594; <a href=\"https://twitter.com/#!/basho/status/108982455062634497\">Details here</a></li>\n\t<li>This is a ways off but still worth relaying: Jon Brisbin will be giving a talk on Riak and evented data with RabbitMQ at the SpringOne conference in Chicago at the end of October.<br />\n&#8594; <a href=\"http://www.springone2gx.com/conference/chicago/2011/10/speakers/jon_brisbin\">Talk details here</a></li>\n\t<li>There will be a half day Riak training at the upcoming Surge Conference in Baltimore happening at the end of September. The best part about this is that it&#8217;s free with your registration (and Surge&#8217;s lineup looks downright amazing).<br />\n&#8594; <a href=\"http://omniti.com/surge/2011/sessions/training#riak-training\">Come to this</a></li>\n\t<li>Duncan McGreggor has a new repo up on Launchpad that connects Riak to Django. Thanks, Duncan!<br />\n&#8594; <a href=\"https://launchpad.net/django-riak-engine\">Django Riak Engine</a></li>\n</ol>",
+  "isoTimestamp": "2011-09-01T07:00:00.000Z",
+  "_id": "2011-09-01T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Sep 1 2011"
+}

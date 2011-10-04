@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "John Newman Has Joined The Basho Team",
+  "link": "http://blog.basho.com/2011/09/02/John-Newman-Has-Joined-The-Basho-Team",
+  "guid": "http://blog.basho.com/2011/09/02/John-Newman-Has-Joined-The-Basho-Team",
+  "updated": "2011-09-02T00:00:00+00:00",
+  "pubdate": "2011-09-02T07:00:00.000Z",
+  "rfc822": "Fri, 02 Sep 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/09/02/John-Newman-Has-Joined-The-Basho-Team",
+  "description": "<p><strong>September 02, 2011</strong></p>\n<p>We are thrilled to announce that John Newman has joined the Basho Team. John comes on as on our newest Developer Advocate, and will be focusing on User Interface and Web Design for Basho&#8217;s various products and web properties.</p>\n<p>A bit about John (in his words):</p>\n<p><em>Clean, concise, readable, reliable code is important to me whether that&#8217;s in markup or programming. My web specialties are <span class=\"caps\">HTML</span> (5), <span class=\"caps\">CSS</span> (3), and JavaScript, and books like &#8220;JavaScript: The Good Parts&#8221;, and other O&#8217;Reilly publications have helped keep me in line. Basically, I like it when things are beautiful. I like my designs clean and crisp and my programs functional</em>.</p>\n<img src=\"/images/john-newman.jpg\">\n<p>If you want to keep an eye on John, you can follow him on <a href=\"https://github.com/jgnewman\">GitHub</a>. Other than that, expect to see his design and UI/UX work inter-weaved throughout the suite of Basho and Riak web properties and software offerings.</p>\n<p>Welcome, John!</p>\n<p><a href=\"http://twitter.com/#!/basho/team\">The Basho Team</a></p>",
+  "isoTimestamp": "2011-09-02T07:00:00.000Z",
+  "_id": "2011-09-02T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Sep 2 2011"
+}

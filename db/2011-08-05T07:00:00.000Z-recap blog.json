@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 3 - 4",
+  "link": "http://recap.basho.com/2011/08/05/Riak-Recap-For-August-3-4",
+  "guid": "http://recap.basho.com/2011/08/05/Riak-Recap-For-August-3-4",
+  "updated": "2011-08-05T00:00:00+00:00",
+  "pubdate": "2011-08-05T07:00:00.000Z",
+  "rfc822": "Fri, 05 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/05/Riak-Recap-For-August-3-4",
+  "description": "<p><em>Posted on August 05, 2011</em></p>\n<p>Afternoon, Evening, Morning to All -</p>\n<p>Here&#8217;s a great Recap to take you into the weekend: slide decks, blog posts, new code, and more.</p>\n<p>Enjoy</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 3 &#8211; 4</strong></p>\n<ol>\n\t<li>Version 0.0.3 of django-riak-sessions just hit PyPI.<br />\n&#8594; <a href=\"http://pypi.python.org/pypi/django-riak-sessions/0.0.3\">Code here</a>  <br />\n&#8594; <a href=\"https://github.com/flashingpumpkin/django-riak-sessions\">On GitHub here</a></li>\n\t<li>Damon Oehlman wrote a blog post called &#8220;Masterless Replication inNoSQL Solutions&#8221; and was looking for some people using Riak in production to bounce some questions off of.<br />\n&#8594; <a href=\"http://www.distractable.net/coding/nosql-solutions-masterless-replication\">Read here</a></li>\n\t<li>Nathan Marz (@nathanmarz) wrote a post for the Twitter Engineering Blog all about Storm, the realtime computation system he and his team built. Riak gets a few shout outs.<br />\n&#8594; <a href=\"http://engineering.twitter.com/2011/08/storm-is-coming-more-details-and-plans.html\">Read here</a></li>\n\t<li>A video of Basho <span class=\"caps\">CTO</span> Justin Sheehy and Damian Katz talking about Riak, CouchDB, Erlang, and all sorts of other good stuff just surfaced.<br />\n&#8594; <a href=\"http://www.infoq.com/interviews/sheehy-katz-riak-couchdb\">Watch here</a></li>\n\t<li>Bryan O&#8217;Sullivan&#8217;s &#8220;Building Solid Distributed Applications with Haskell and Riak&#8221; from Erlang Factory is online and viewable.<br />\n&#8594; <a href=\"http://www.infoq.com/presentations/Distributed-Applications-with-Haskell-and-Riak\">Watch here</a></li>\n\t<li>For anyone heading to the NoSQLNow Conference in San Jose in a few weeks, you can expect to see Andy Gross on the &#8220;Innovation in NoSQL Data Stores&#8221; panel.<br />\n&#8594; <a href=\"http://nosql2011.wilshireconferences.com/sessionPop.cfm?confid=64&amp;proposalid=4098\">Details here</a></li>\n\t<li>Michael Klishin contributed a small fix to the Wiki. Thanks, Michael!<br />\n&#8594; <a href=\"https://github.com/basho/riak_wiki/pull/142\">Pull request here</a></li>\n\t<li>@NirvanaCore wrote an extensive comment on a Hacker News thread with details on a new platform they are building. The one liner: &#8220;CoffeeScript based web apps on an erlang platform backed by Riak.&#8221; Keep an eye on them.<br />\n&#8594; <a href=\"http://news.ycombinator.com/item?id=2848647\">Here&#8217;s the write-up</a></li>\n</ol>",
+  "isoTimestamp": "2011-08-05T07:00:00.000Z",
+  "_id": "2011-08-05T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 5 2011"
+}

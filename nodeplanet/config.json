@@ -1,131 +1,31 @@
 {
   "sites": {
-    "mikeal": {
-      "feed": "http://www.mikealrogers.com/site.rss",
-      "author": "Mikeal Rogers",
-      "link": "http://www.mikealrogers.com"
+    "basho blog": {
+      "feed": "http://blog.basho.com/feed/index.xml",
+      "author": "Basho Technologies",
+      "link": "http://blog.basho.com"
     },
-    "isaacs": {
-      "feed": "http://blog.izs.me/rss",
-      "author": "Isaac Schlueter",
-      "link": "http://blog.izs.me"
+    "recap blog": {
+      "feed": "http://recap.basho.com/feed/index.xml",
+      "author": "Mark Phillips",
+      "link": "http://recap.basho.com"
     },
-    "azer": {
-      "feed": "http://io.kodfabrik.com/atom.xml",
-      "author": "Azer Koculu",
-      "link": "http://io.kodfabrik.com"
+    "themarkphillips": {
+      "feed": "http://themarkphillips.com/atom.xml",
+      "author": "Mark Phillips",
+      "link": "http://themarkphillips.com"
     },
-    "nodejitsu": {
-      "feed": "http://blog.nodejitsu.com/feed.xml",
-      "author": "Ninjas",
-      "link": "http://blog.nodejitsu.com"
-    },
-    "node knockout": {
-      "feed": "http://blog.nodeknockout.com/rss",
-      "author": "Node KO",
-      "link": "http://blog.nodeknockout.com/"
-    },
-    "node blog": {
-      "feed": "http://blog.nodejs.org/feed/",
-      "author": "Joyent",
-      "link": "http://blog.nodejs.org/"
-    },
-    "3rd-Eden": {
-      "feed": "http://feeds.feedburner.com/3rd-eden",
-      "author": "Arnout Kazemier",
-      "link": "http://blog.3rd-eden.com/"
-    },
-    "polotek": {
-      "feed": "http://marcorogers.com/blog/rss",
-      "author": "Marco Rogers",
-      "link": "http://marcorogers.com/blog"
-    },
-    "Ted Leung": {
-      "feed": "http://www.sauria.com/blog/feed/",
-      "author": "Ted Leung",
-      "link": "http://www.sauria.com/blog/"
-    },
-    "Bocoup": {
-      "feed": "http://weblog.bocoup.com/feed",
-      "author": "Bocoup",
-      "link": "http://weblog.bocoup.com"
-    },
-    "بلاگ ند": {
-      "feed": "http://nodejs.ir/blog/feed.xml",
-      "author": "Morteza Milani",
-      "link": "http://nodejs.ir"
-    },
-    "Too Tall Nate": {
-      "feed": "https://tootallnate.net/feed.xml",
-      "author": "Nathan Rajlich",
-      "link": "https://tootallnate.net"
-    },
-    "Digital Tumbleweed": {
-      "feed": "http://digitaltumbleweed.com/rss.xml",
-      "author": "Nick Campbell",
-      "link": "http://digitaltumbleweed.com"
-    },
-    "Bogo's Blog": {
-      "feed": "http://talkweb.eu/c/nodejs/feed",
-      "author": "Bogomil Shopov",
-      "link": "http://talkweb.eu/"
-    },
-    "Ryah Dahl's Blog": {
-      "feed": "http://antirobotrobot.tumblr.com/rss",
-      "author": "Ryan Dahl",
-      "link": "http://antirobotrobot.tumblr.com"
-    },
-    "Metaduck": {
-      "feed": "http://metaduck.com/tagged/node.js/rss",
-      "author": "Pedro Teixeira",
-      "link": "http://metaduck.com/"
-    },
-    "NodeConf Videos": {
-      "feed": "http://blip.tv/rss/bookmarks/234675",
-      "author": "NodeConf",
-      "link": "http://blip.tv/jsconf"
-    },
-    "Labnotes": {
-      "feed": "http://labnotes.org/feed/atom/",
-      "author": "Assaf Arkin",
-      "link": "http://labnotes.org/"
-    },
-    "IT Wars": {
-      "feed": "http://www.it-wars.com/feed.php?atom",
-      "author": "Vincent Rabah",
-      "link": "http://www.it-wars.com/"
-    },
-    "CurlyBraceCast": {
-      "feed": "http://www.curlybracecast.com/itunes.rss",
-      "author": "Mikeal Rogers",
-      "link": "http://www.curlybracecast.com/"
-    },
-    "Node Up": {
-      "feed": "http://feeds.feedburner.com/NodeUp",
-      "author": "Node Up",
-      "link": "http://nodeup.com/"
-    },
-    "Nuno's Notebook": {
-      "feed": "http://feeds.feedburner.com/nunojob",
-      "author": "Nuno Job",
-      "link": "http://writings.nunojob.com/"
-    },
-    "Dave Stevens": {
-      "feed": "http://davestevens.us/feed",
-      "author": "Dave Stevens",
-      "link": "http://davestevens.us"
-    },
-    "Shape Shed": {
-      "feed": "http://feeds.shapeshed.com/shapeshed",
-      "author": "George Ornbo",
-      "link": "http://shapeshed.com/"
-    }
+	"OJs Rants": {
+	  "feed": "http://buffered.io/feed/index.xml",
+	  "author": "OJ Reeves",
+	  "link": "http://buffered.io/"
+	}
   },
-  "title": "Planet node.js",
-  "tags": [ "node","nodejs","planet","javascript","developer","node.js","community" ],
-  "url": "http://www.planetnodejs.com",
-  "image": "http://nodejs.org/logo.png",
-  "description": "Community blog aggregator for node.js",
-  "editorEmail": "mikeal.rogers@gmail.com",
+  "title": "Planet Riak",
+  "tags": [ "Riak","erlang","nosql","distributed systems","developer","open source","community","database" ],
+  "url": "http://www.planetriak.org",
+  "image": "",
+  "description": "Community blog aggregator for Riak",
+  "editorEmail": "mark@basho.com",
   "css": "./site.css"
 }

@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Riak Recap for August 19 - 21",
+  "link": "http://recap.basho.com/2011/08/22/Riak-Recap-For-August-19-21",
+  "guid": "http://recap.basho.com/2011/08/22/Riak-Recap-For-August-19-21",
+  "updated": "2011-08-22T00:00:00+00:00",
+  "pubdate": "2011-08-22T07:00:00.000Z",
+  "rfc822": "Mon, 22 Aug 2011 00:00:00 -0700",
+  "id": "http://recap.basho.com/2011/08/22/Riak-Recap-For-August-19-21",
+  "description": "<p><em>Posted on August 22, 2011</em></p>\n<p>Evening, Morning, Afternoon to All -</p>\n<p>Very short Recap coming off of the weekend.</p>\n<p>Enjoy.</p>\n<p><a href=\"twitter.com/pharkmillups\">Mark</a></p>\n<p><strong>Riak Recap for August 19 &#8211; 21</strong></p>\n<ol>\n\t<li>We announced a Riak 1.0 Webinar. This is happening on Sept 28th and will feature Justin Sheehy and Andy Gross talking about why the next Riak release will be downright amazing.<br />\n&#8594; <a href=\"http://t.co/X83RNcz\">Registration and details here</a></li>\n\t<li>Q <del>-</del> Is there some way to remove an empty bucket? (via #riak)<br />\n   A <del>-</del> If it&#8217;s empty, it doesn&#8217;t exist. Buckets are just namespaces + properties.</li>\n\t<li>Another reminder that Riak will be the topic of conversation at the<br />\nupcoming Seattle Scalability Meetup this Wednesday.<br />\n&#8594; <a href=\"http://www.meetup.com/Seattle-Hadoop-HBase-NoSQL-Meetup/events/20756731/\">Details here</a></li>\n</ol>",
+  "isoTimestamp": "2011-08-22T07:00:00.000Z",
+  "_id": "2011-08-22T07:00:00.000Z-recap blog",
+  "site": {
+    "feed": "http://recap.basho.com/feed/index.xml",
+    "author": "Mark Phillips",
+    "link": "http://recap.basho.com"
+  },
+  "displayDate": "Aug 22 2011"
+}

@@ -1,0 +1,19 @@
+{
+  "entry": "\n   ",
+  "title": "Announcing Riak Office Hours at BashoWest",
+  "link": "http://blog.basho.com/2011/06/22/Annoucing-Riak-Office-Hours-at-BashoWest",
+  "guid": "http://blog.basho.com/2011/06/22/Annoucing-Riak-Office-Hours-at-BashoWest",
+  "updated": "2011-06-22T00:00:00+00:00",
+  "pubdate": "2011-06-22T07:00:00.000Z",
+  "rfc822": "Wed, 22 Jun 2011 00:00:00 -0700",
+  "id": "http://blog.basho.com/2011/06/22/Annoucing-Riak-Office-Hours-at-BashoWest",
+  "description": "<p><strong>June 22, 2011</strong></p>\n<p>We are just about settled in here at <a href=\"http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you/\">BashoWest</a> in San Francisco and the new office is ready to take on regularly scheduled visitors. So, starting next Wednesday, June 29th, we will be kicking off Riak Office Hours. This will be a very informal gathering where you can expect to discuss issues and trade ideas with Basho developers and members of the Riak Community.</p>\n<p>The tentative plan is to start things around 2PM Pacific and run until about 5, at which point we&#8217;ll retire to a local watering hole and probably continue to talk about software.</p>\n<p>Who should come to Riak Office Hours?</p>\n<ul>\n\t<li>If you&#8217;re wondering if Riak is the right tool for your next app</li>\n\t<li>If you&#8217;re having trouble with your data model</li>\n\t<li>If you&#8217;re interested in learning/discussing Erlang</li>\n\t<li>If you&#8217;re having an issue with your production Riak installation</li>\n\t<li>If you&#8217;re a fan of genuinely-useful and technically-sound distributed systems</li>\n\t<li>If you&#8217;re interested in meeting more of the Riak Community</li>\n\t<li>If your laptop needs more stickers</li>\n\t<li>If you have ideas on how we can improve our documentation</li>\n</ul>\n<p>You get the idea.</p>\n<p>Schedule permitting, we are going to try and do this every two weeks. That said, we&#8217;ll be sure to post a blog each week making it official to ensure no one shows up to an empty office. Also, for those for you who aren&#8217;t in San Francisco proper and wish to attend: <strong>the Powell St. Bart Station is located directly across the street from the office.</strong> (We&#8217;ll also be endeavoring to get remote developers involved, too. I&#8217;ll keep you posted on how that is going to work.)</p>\n<p>Shoot an email to mark@basho.com or <a href=\"http://twitter.com/#!/pharkmillups\">find me on Twitter</a> if you&#8217;ve got any specific questions.</p>\n<p>Other than that, we hope to see you next week at 929 Market St., Suite 500.</p>\n<p>Mark <br />\n<em>Community Manager</em></p>",
+  "isoTimestamp": "2011-06-22T07:00:00.000Z",
+  "_id": "2011-06-22T07:00:00.000Z-basho blog",
+  "site": {
+    "feed": "http://blog.basho.com/feed/index.xml",
+    "author": "Basho Technologies",
+    "link": "http://blog.basho.com"
+  },
+  "displayDate": "Jun 22 2011"
+}
