@@ -1,11 +1,11 @@
 {
   "sites": {
-    "basho blog": {
+    "The Basho Blog": {
       "feed": "http://blog.basho.com/feed/index.xml",
       "author": "Basho Technologies",
       "link": "http://blog.basho.com"
     },
-    "recap blog": {
+    "Riak Recap Blog": {
       "feed": "http://recap.basho.com/feed/index.xml",
       "author": "Mark Phillips",
       "link": "http://recap.basho.com"
@@ -19,6 +19,16 @@
 	  "feed": "http://buffered.io/feed/index.xml",
 	  "author": "OJ Reeves",
 	  "link": "http://buffered.io/"
+	},
+	"Cartesian Faith":{
+	  "feed": "http://cartesianfaith.wordpress.com/feed/index.xml",
+	  "author": "Brian Lee Yung Rowe",
+	  "link": "http://cartesianfaith.wordpress.com"
+	},
+	"Sean Cribbs - Digital Renaissance Man": {
+	  "feed": "http://seancribbs.com/atom.xml",
+	  "author": "Sean Cribbs", 
+	  "link": "http://seancribbs.com"
 	}
   },
   "title": "Planet Riak",
